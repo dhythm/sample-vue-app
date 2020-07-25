@@ -1,5 +1,12 @@
 # sample-vue-app
 
+## Installation
+```
+vue create PROJECT_NAME
+cd PROJECT_NAME
+vue add vuetify
+```
+
 ## Project setup
 ```
 yarn install
